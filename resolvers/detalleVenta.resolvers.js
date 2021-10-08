@@ -1,5 +1,4 @@
 let Ventas = require('../models/venta');
-let Productos = require('../models/producto');
 let DetalleVentas = require('../models/detalleVenta');
 
 module.exports = {        

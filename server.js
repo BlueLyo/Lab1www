@@ -42,6 +42,4 @@ server.listen().then(({url})=>{
 });
 
 
-//cosas que faltan
-//fechas las deje como stringl, graphql no detecta timestamp :C
 //no se si hay que hacer menejo de stock, pero no lo hice
